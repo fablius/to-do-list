@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 .env
-./src/libs/firebase.js
+
+# Firebase configuration
+src/libs/firebase.js
