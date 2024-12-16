@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 .env
-../to-do-list/src/libs/firebase.js
+./src/libs/firebase.js
