@@ -4,4 +4,4 @@ to do list open source project
 
 # Components
 
-ReactJS + Firebase
+ReactJS + Firebase + Material UI
