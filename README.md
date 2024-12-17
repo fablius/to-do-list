@@ -1,4 +1,4 @@
-# Project Name
+# Todo list website + Firebase + Material UI
 
 A brief description of what this project does and its purpose.
 
